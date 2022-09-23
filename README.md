@@ -8,10 +8,6 @@ A curated list of paper, methods and libraries implemented in Python for transfo
 
 * [Research Papers](#research-papers)
 * [Libraries](#libraries)
-  * [IGTD](#user-content-igtd)
-  * [REFINED](#user-content-refined)
-  * [DeepInsight](#user-content-deepinsight)
-  * [tab2box](#user-content-deepinsight)
 * [Tutorials](#tutorials)
   * [Reading Content](#reading-content)
   * [Videos and Courses](#videos-and-online-courses)
