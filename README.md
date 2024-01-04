@@ -21,6 +21,10 @@ A curated list of paper, methods and libraries implemented in Python for transfo
 * [tab2vox](https://www.mdpi.com/2071-1050/14/18/11745) - Tab2vox neural architecture search (NAS) model as a method to convert a high-dimensional tabular sample into a well-formed 3D voxel image
 * [DAFT](https://www.sciencedirect.com/science/article/pii/S1053811922006218) - DAFT: A Universal Module to Interweave Tabular Data and 3D Images in CNNs.
 * [Vec2image](https://academic.oup.com/bib/article/23/2/bbab584/6518046?login=false) - Vec2image: an explainable artificial intelligence model for the feature representation and classification of high-dimensional biological data by vector-to-image conversion.
+* [DCNNTr](https://www.sciencedirect.com/science/article/pii/S1568494622004045) - DCNNTr
+* [IP3G](https://www.sciencedirect.com/science/article/pii/S1568494622004045) - IP3G
+* [Wrangling](https://www.nature.com/articles/s41598-022-26378-6) - Wrangling
+* [Fotomics](https://www.nature.com/articles/s41598-022-26378-6) - Fotomics
 
 ## Libraries
 
@@ -32,6 +36,9 @@ A curated list of paper, methods and libraries implemented in Python for transfo
 - [tab2vox](https://github.com/kellyeunalee/tab2vox) - Tab2vox neural architecture search (NAS) model as a method to convert a high-dimensional tabular sample into a well-formed 3D voxel image
 - [DAFT](https://github.com/ai-med/DAFT) - DAFT: A Universal Module to Interweave Tabular Data and 3D Images in CNNs.
 - [Vec2image](https://github.com/ztpub/Vec2image) - Vec2image: an explainable artificial intelligence model for the feature representation and classification of high-dimensional biological data by vector-to-image conversion.
+- [IP3G](https://github.com/hamid2006rv/IP3G) - IP3G: 
+- [Wrangling](https://github.com/anuraganands/Non-image-data-classification-with-CNN) - Wrangling
+- [Fotomics](https://github.com/VafaeeLab/Fotomics-Imagification) - Fotomics
 
 
 ## Tutorials
